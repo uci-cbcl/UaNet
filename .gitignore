@@ -1,0 +1,8 @@
+results/*
+*.pyc
+*.so
+.ipynb_checkpoints/*
+.idea/*
+*.o
+*.ipynb
+.DS_Store
