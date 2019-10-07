@@ -22,7 +22,7 @@ If you use the code or data in your research, we will appreciate it if you could
 * The original dicom images for dataset2 are freely available at [Head-Neck Cetuximab](<http://doi.org/10.7937/K9/TCIA.2015.7AKGJUPZ>) and [Head-Neck-PET-CT](<https://doi.org/10.7937/K9/TCIA.2017.8oje5q00>). 
 * The original images and annotations for dataset3 are freely available at [PDDCA](<http://www.imagenglab.com/newsite/pddca/>).
 
-* Use [this link](<http://irvine.deep-voxel.com:9995/request>) to request a copy of the test data of dataset1.
+* Use [this link](<http://irvine.deep-voxel.com:9995/>) to request a copy of the test data of dataset1.
 
 Once you download the data, unzip them and put them under data/raw and data/preprocessed.
 
