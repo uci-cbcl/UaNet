@@ -9,12 +9,14 @@
 Copyright (C) 2019 University of California Irvine and DEEPVOXEL Inc.  All rights reserved.
 Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). 
 
-**Note: The code/software is licensed for non-commerical research purpose only**
+**Note: The code/software is licensed for non-commerical academic research purpose only.**
 
 ## Reference
 If you use the code or data in your research, we will appreciate it if you could cite the following paper:
 ```
-Tang et al, Clinically applicable deep learning framework for organs at risk delineation in CT images, Nature Machine Intelligence, 1, pages480–491 (2019)
+Tang et al, Clinically applicable deep learning framework for organs at risk delineation in CT images
+
+Nature Machine Intelligence, 1, pages480–491 (2019)
 ```
 
 ## Data
