@@ -16,7 +16,7 @@ If you use the code or data in your research, we will appreciate it if you could
 ```
 Tang et al, Clinically applicable deep learning framework for organs at risk delineation in CT images
 
-Nature Machine Intelligence, 1, pages480–491 (2019)
+Nature Machine Intelligence, 1, pages 480–491 (2019)
 ```
 
 ## Data
