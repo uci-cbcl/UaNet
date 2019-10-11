@@ -14,6 +14,7 @@ Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses
 ## Reference
 If you use the code or data in your research, we will appreciate it if you could cite the following paper:
 ```
+Tang et al, Clinically applicable deep learning framework for organs at risk delineation in CT images, Nature Machine Intelligence, 1, pages480–491 (2019)
 ```
 
 ## Data
@@ -28,7 +29,7 @@ Once you download the data, unzip them and put them under data/raw and data/prep
 
 ## Trained models
 
-* Use [this link](<http://irvine.deep-voxel.com:9995/request>) to request pre-trained model checkpoints for non-commercial research purposes.
+* Use [this link](<http://irvine.deep-voxel.com:9995/request>) to request pre-trained model checkpoints for non-commercial academic research purposes. 
 
 Once you download the model checkpoints, change the config['initial_checkpoint'] to the path of the file you download.
 
